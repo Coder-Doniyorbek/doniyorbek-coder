@@ -1,4 +1,4 @@
-# 🌌 Doniyorbek's 3D Portfolio
+# 🌌 Doniyorbek 3D Portfolio
 
 ![Header GIF](https://media.giphy.com/media/l0HlQ7LRalVfLRcJW/giphy.gif)
 
