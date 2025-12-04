@@ -59,7 +59,8 @@ Copy code
 - Responsive UI / Mobile-first dizayn  
 - Contact form va social media links  
 
-![Skills GIF]  (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRkZWU0YmdtdHlyZmdjOTdsNG9mMWFsNXRseTh2NTlydmxkeHhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+![Skills GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRkZWU0YmdtdHlyZmdjOTdsNG9mMWFsNXRseTh2NTlydmxkeHhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 ---
 
