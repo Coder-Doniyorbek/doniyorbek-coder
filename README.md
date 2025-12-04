@@ -15,7 +15,7 @@ Salom! Men **Doniyorbek**, **React.js** va **Three.js** bo‘yicha tajribali das
 - 🔹 **Particles fon**: Interaktiv zarralar bilan chiroyli fon animatsiyasi  
 - 🔹 **Skill bar & progress indicators**: Men ishlagan texnologiyalarni vizual ko‘rsatish  
 
-![3D Preview GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![3D Preview GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZnbmllZWl0aGp2eTk2NjIzeWR3OHBhdDVjaDk5cHpyNWc2NTk2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9XgHHnPnDjOF1hWpl/giphy.gif)
 
 ---
 
@@ -59,7 +59,7 @@ Copy code
 - Responsive UI / Mobile-first dizayn  
 - Contact form va social media links  
 
-![Skills GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Skills GIF  (https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRkZWU0YmdtdHlyZmdjOTdsNG9mMWFsNXRseTh2NTlydmxkeHhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
 
