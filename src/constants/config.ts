@@ -51,7 +51,7 @@ export const config: TConfig = {
   },
   contact: {
     p: "Aloqa",
-    h2: "Bog'lanish.",
+    h2: "Bog'lanish",
     form: {
       name: {
         span: "Ismingiz",
