@@ -67,7 +67,7 @@ export const config: TConfig = {
   sections: {
     about: {
       p: "Kirish",
-      h2: "Umumiy ma'lumot.",
+      h2: "Umumiy ma'lumot",
       content: `Men Frontend, Backend va Sun'iy intellekt yo‘nalishlarini chuqur o‘rgangan bo‘lib,
     zamonaviy web texnologiyalarini puxta egallaganman. Frontend dasturlash tillarini,
     xususan Backend va boshqa zamonaviy texnikalarni yaxshi bilaman va ularni amaliy loyihalarda
@@ -82,16 +82,16 @@ export const config: TConfig = {
     Keling, g‘oyalaringizni birgalikda chinakam loyihaga aylantiraylik!`,
     },
     experience: {
-      p: "Hozirgacha nima qildim",
-      h2: "Ish tajribasi.",
+      p: "Hozirgacha nimalar qildim",
+      h2: "Ish tajribasi",
     },
     feedbacks: {
       p: "Boshqalar men haqimda nima deyishadi ?",
-      h2: "Sharhlar.",
+      h2: "Sharhlar",
     },
     works: {
       p: "Mening ishlarim",
-      h2: "Loyihalarim.",
+      h2: "Loyihalarim",
       content: `Quyidagi loyihalar mening ko'nikmalarim va tajribamni
     haqiqiy ish misollari orqali namoyish etadi. Har bir loyiha qisqacha
     tavsiflangan bo'lib, kod omborlariga va jonli namoyishlarga havolalar
